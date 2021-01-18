@@ -1,0 +1,1 @@
+export const CHANGE_TITLE_COLOR = 'CHANGE_TITLE_COLOR';
